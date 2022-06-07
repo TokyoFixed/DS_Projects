@@ -1,2 +1,2 @@
 # Data Science Projects
-1. Exploring Used Car Listings Using eBay Data
+1. EDA - Exploring Used Car Listings Using eBay Data
